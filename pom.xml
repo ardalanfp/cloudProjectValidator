@@ -9,7 +9,7 @@
         <version>2.1.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from CloudCourseProject.repository -->
     </parent>
-    <groupId>CloudCourseProject</groupId>
+    <groupId>com.microservice.FumElection</groupId>
     <artifactId>validator</artifactId>
     <version>1.0-SNAPSHOT</version>
 

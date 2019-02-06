@@ -1,4 +1,4 @@
-package CloudCourseProject;
+package com.microservice.FumElection;
 ;
 import com.fasterxml.jackson.databind.JsonNode;
 import org.springframework.beans.factory.annotation.Value;
